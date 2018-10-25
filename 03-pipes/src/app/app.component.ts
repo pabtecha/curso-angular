@@ -29,7 +29,7 @@ export class AppComponent {
 
   nombre2 = 'nicolás terevinto';
 
-  video = 'watch?v=1ScRRmFgigQ';
+  video = '1ScRRmFgigQ';
 
   activar: boolean = false;
 
